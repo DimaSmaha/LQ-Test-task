@@ -13,8 +13,8 @@
 - Run startController.bat
 
 ### Install software and check out the project
-- Download and install Node.JS ( at least 14.X )
-- Install Visual Studio Code
+- Download and install Node.JS (at least 14.X)(https://nodejs.org/uk/)
+- Install Visual Studio Code (https://code.visualstudio.com/)
 - Make new folder and open it in VS code
 - Open VS code terminal and enter(npx wdio config)
 - Choose to install mocha and chromedriver
